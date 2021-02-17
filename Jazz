@@ -1,0 +1,45 @@
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>джазовые музыкальные инструменты</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1>Gloevk</h1>
+        <p>Разнообразные инструменты</p>
+        <img src="img/gloevk-examples.png" width="510" height="80" alt="Примеры инструментов">
+      </div>
+    </header>
+
+    <section class="features">
+      <h2>Основные инструменты</h2>
+      <p class="feature-drum kit">Ударная установка</p>
+      <p class="feature-saxophone">Саксофон</p>
+      <p class="feature-synthesizer">Синтезатор</p>
+      <p class="feature-Double bass">Контрабас</p>
+      <p class="feature-Trombone">Тромбон</p>
+      <p class="feature-Tube">Труба</p>
+      <p class="feature-Guitar">Гитара</p>
+    </section>
+
+    <section class="advantages">
+      <h2>Особенности джазовой музыки</h2>
+      <ul class="advantages-list">
+        <li class="advantages-item">импровизация</li>
+        <li class="advantages-item standard">нетрадиционные приёмы интонирования</li>
+        <li class="advantages-item standard">постоянная ритмическая пульсация</li>
+        <li class="advantages-item vip">акценты на вторую и четвёртую долю</li>
+        <li class="advantages-item vip">несколько стилевых направлений</li>
+      </ul>
+    </section>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© Dasha, 2021</p>
+        <p>Джазовая музыка</p>
+      </div>
+    </footer>
+  </body>
+</html>
