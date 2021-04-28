@@ -1,6 +1,5 @@
-<head>
-<link rel="stylesheet"href="style.css">
 #  ТОП САМЫХ ПОПУЛЯРНЫХ МУЗЫКАЛЬНЫХ ИНСТРУМЕНТОВ
+    <head>
     </head>
     
   <body>
