@@ -1,7 +1,10 @@
-<head>
+<title>
   ТОП САМЫХ ПОПУЛЯРНЫХ МУЗЫКАЛЬНЫХ ИНСТРУМЕНТОВ
+  </title>
+  <head>
     </head>
-  <body bgcolor="light yellow">
+    
+  <body>
    <h1>
        Гитара 
      </h1>
